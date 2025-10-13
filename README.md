@@ -1,21 +1,23 @@
+> [!CAUTION]
+> This project is unmaintained!
+> 
+> Previously it was hosted under blymp [dot] io - I do not own that domain anymore! And it seems like some scam website catched it, so be careful.
+> I recommend switching to something like <https://web.localsend.org/> instead
+
 <p align="center">
-    <a href="https://blymp.io">
       <img src="./icon.png" alt="blymp.io logo" width="250"/>
-    </a>
 </p>
 
 <h1 align="center">
-  blymp.io
+    file-transfer
 </h1>
 <h2 align="center" style="margin-bottom:2rem">
   Easily transfer files between devices
 </h2>
 
-blymp.io is a webapp that allows you to easily transfer files between devices with high speeds.
+file-transfer is a webapp that allows you to easily transfer files between devices with high speeds.
 
 It uses modern technologies like WebRTC, Blobs and WebSockets to allow files to be transferred as fast as possible.
-
-You can use blymp.io by going to <https://blymp.io>. Feeling adventurous? Try blymp.io's newest features on <https://next.blymp.io>
 
 - [Features](#features)
 - [Quick Start](#quick-start)
